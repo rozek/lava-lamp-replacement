@@ -8,12 +8,8 @@ For my wife, I just completed a project to replace a real lava lamp with s.th. l
 
 <table>
   <tr>
-    <td><center><img width=290 src="LavaLamp-in-action_01.jpg"></center></td>
-    <td><center><img width=290 src="LavaLamp-in-action_02.jpg"></center></td>
-  </tr>
-  <tr>
-    <td><center><b>Lava lamp in action</b></center></td>
-    <td><center><b>dto., from different angle</b></center></td>
+    <td><center><img width=290 src="LavaLamp-in-action_01.jpg"><br><b>Lava lamp in action</b></center></td>
+    <td><center><img width=290 src="LavaLamp-in-action_02.jpg"><br><b>dto., from different angle</b></center></td>
   </tr>
 </table>
 
