@@ -9,7 +9,7 @@ For my wife, I just completed a project to replace a real lava lamp with s.th. l
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="LavaLamp-in-action_01.jpg"><br><b>Lava lamp in action</b></td>
-    <td style="text-align:center"><img width=290 src="LavaLamp-in-action_02.jpg"><br><b>dto., from different angle</b>></td>
+    <td style="text-align:center"><img width=290 src="LavaLamp-in-action_02.jpg"><br><b>dto., from different angle</b></td>
   </tr>
 </table>
 
