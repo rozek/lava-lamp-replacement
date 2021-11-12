@@ -17,6 +17,7 @@ For my wife, I just completed a project to replace a real lava lamp with s.th. l
   </tr>
 </table>
 
+## Bill of Materials ##
 
 
 ## License ##
