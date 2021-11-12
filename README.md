@@ -6,7 +6,8 @@ For my wife, I just completed a project to replace a real lava lamp with s.th. l
 
 > This documentation is currently in progress - do not expect it to be completed before end of november.
 
-
+![](LavaLamp-in-action_01.jpg)
+![](LavaLamp-in-action_02.jpg)
 
 ## License ##
 
