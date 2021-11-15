@@ -24,7 +24,11 @@ After some experiments, I decided to realize that project with an [Espruino](htt
   </tr>
 </table>
 
-<img width=290 src="Lava-Lamp-Wind-Glass-with-frosted-Glass-Foil.jpg">
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-frosted-Glass-Foil.jpg"><br><b>Wind Glass with frosted Glass Foil</b></td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -47,7 +51,11 @@ After some experiments, I decided to realize that project with an [Espruino](htt
   </tr>
 </table>
 
-<img width=290 src="Lava-Lamp-Base-with-Cable.jpg">
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-with-Cable.jpg"><br><b>Base with Cable</b></td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -56,9 +64,17 @@ After some experiments, I decided to realize that project with an [Espruino](htt
   </tr>
 </table>
 
-<img width=290 src="Lava-Lamp-Power-Supply.jpg">
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Power-Supply.jpg"><br><b>Power Supply with modified Plug</b></td>
+  </tr>
+</table>
 
-<img width=290 src="Lava-Lamp-assembled.jpg">
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-assembled.jpg"><br><b>fully assembled Lava Lamp</b></td>
+  </tr>
+</table>
 
 ## License ##
 
