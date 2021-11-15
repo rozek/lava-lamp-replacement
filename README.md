@@ -124,6 +124,8 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 
 ### The actual Program ###
 
+#### Current Performance ####
+
 ## License ##
 
 [MIT License](LICENSE.md)
