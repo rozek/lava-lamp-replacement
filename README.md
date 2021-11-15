@@ -18,7 +18,7 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 ## Bill of Materials ##
 
 * 1x [Original Expruino](https://www.espruino.com/Original)
-* 1x WS2812B16x16 RGB LED matrix
+* 1x WS2812B 16x16 RGB LED matrix
 * 1x short USB-A-to-Micro-USB adapter cable
 * 1x USB-A extension cable (with an USB-A socket)
 * 1x power supply 5V/1A
