@@ -31,10 +31,15 @@ After some experiments, I decided to realize that project with an [Espruino](htt
 
 ### Tools needed ###
 
+* Desktop computer (Windows, Linux or Mac OS) or Chromebook with a modern browser (e.g., Chrome) which supports the "Web Serial API"
 * 3D printer
 * soldering iron
 * wire stripper
 * side cutter
+
+## Instructions ##
+
+### Wind Glass ###
 
 <table>
   <tr>
@@ -43,11 +48,15 @@ After some experiments, I decided to realize that project with an [Espruino](htt
   </tr>
 </table>
 
+### Frosted Glass Foil ###
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-frosted-Glass-Foil.jpg"><br><b>Wind Glass with frosted Glass Foil</b></td>
   </tr>
 </table>
+
+### Preparing the Espruino ###
 
 <table>
   <tr>
@@ -56,12 +65,16 @@ After some experiments, I decided to realize that project with an [Espruino](htt
   </tr>
 </table>
 
+### Rings for the RGB LED Matrix ###
+
 <table>
   <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-on-Printbed.jpg"><br><b>Espruino, packaged, top View</b></td>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring.jpg"><br><b>dto., bottom View</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-on-Printbed.jpg"><br><b>Ring on Printbed</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring.jpg"><br><b>dto., separate</b></td>
   </tr>
 </table>
+
+### Assembling LED Matrix and Rings ###
 
 <table>
   <tr>
@@ -70,11 +83,15 @@ After some experiments, I decided to realize that project with an [Espruino](htt
   </tr>
 </table>
 
+### Lamp Base ###
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-with-Cable.jpg"><br><b>Base with Cable</b></td>
   </tr>
 </table>
+
+### Lamp Lid ###
 
 <table>
   <tr>
@@ -83,17 +100,29 @@ After some experiments, I decided to realize that project with an [Espruino](htt
   </tr>
 </table>
 
+### Power Supply ###
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Power-Supply.jpg"><br><b>Power Supply with modified Plug</b></td>
   </tr>
 </table>
 
+### Assembling the Lamp ###
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-assembled.jpg"><br><b>fully assembled Lava Lamp</b></td>
   </tr>
 </table>
+
+## Software ##
+
+### Getting Started with the Espruino ###
+
+### Functional Test of the LED Matrix ###
+
+### The actual Program ###
 
 ## License ##
 
