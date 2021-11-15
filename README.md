@@ -116,6 +116,17 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
   </tr>
 </table>
 
+## 3D Prints ##
+
+### Rings for the LED Matrix ###
+
+
+### Lamp Lid ###
+
+
+### Lamp Base ###
+
+
 ## Software ##
 
 ### Getting Started with the Espruino ###
