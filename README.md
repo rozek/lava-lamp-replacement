@@ -23,7 +23,7 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 * 1x USB-A extension cable (with an USB-A socket)
 * 1x power supply 5V/1A
 * 1x wind glass (e.g., 200mm tall, 100mm diameter, 2.6mm thick) or a similar translucent cylinder
-* 1x frosted glass foil, adhesive
+* 1x frosted glass foil, self-adhesive
 * 3x rubber bands, 80mm diameter
 * a few mm of double-sided adhesive tape
 * < 100g of filament to print 4 differents parts (see below)
