@@ -17,6 +17,25 @@ After some experiments, I decided to realize that project with an [Espruino](htt
 
 ## Bill of Materials ##
 
+* 1x [Original Expruino](https://www.espruino.com/Original)
+* 1x WS2812B16x16 RGB LED matrix
+* 1x short USB-A-to-Micro-USB adapter cable
+* 1x USB-A extension cable (with an USB-A socket)
+* 1x power supply 5V/1A
+* 1x wind glass (e.g., 200mm tall, 100mm diameter, 2.6mm thick) or a similar translucent cylinder
+* 1x frosted glass foil, adhesive
+* 3x rubber bands, 80mm diameter
+* a few mm of double-sided adhesive tape
+* < 100g of filament to print 4 differents parts (see below)
+* a small plastic bag (see foto below)
+
+### Tools needed ###
+
+* 3D printer
+* soldering iron
+* wire stripper
+* side cutter
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass</b></td>
