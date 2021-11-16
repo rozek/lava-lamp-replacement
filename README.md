@@ -203,9 +203,9 @@ In order to install that program
 * choose `Flash` as the upload target of the IDE and
 * click "Send to Espruino"
 
-If everything works as intended, the animation should start after an initial delay of 1 second (which has been chosen in order to give the Espruino enough time for its internal house keeping)
+If everything works as intended, the animation should start after an initial delay of 1 second (which has been chosen in order to give Espruino enough time for its internal house keeping after the upload)
 
-And since the code has been saved in flash memory, the animation should start whenever the board is powered-on.
+And since the code has been saved in flash memory, the animation should start automatically whenever the board is powered-on.
 
 <table>
   <tr>
