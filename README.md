@@ -159,7 +159,7 @@ The lid forms the top cover of our lava lamp, its definition can be found in fil
   </tr>
 </table>
 
-Save this model in (binary) STL form and load it into a 3D printer program of your choice (the author prints with a Flashforge Finder and therefore uses [FlashPrint](https://www.flashforge.com/download-center)) where you "slice" it and finally send the result to a 3D printer.
+Save this model in (binary) STL form (or download the [prebuilt STL](https://github.com/rozek/lava-lamp-replacement/blob/main/Lava-Lamp-Lid.stl) file from this repository) and load it into a 3D printer program of your choice (the author prints with a Flashforge Finder and therefore uses [FlashPrint](https://www.flashforge.com/download-center)) where you "slice" it and finally send the result to a 3D printer.
 
 <table>
   <tr>
@@ -181,7 +181,7 @@ Again, copy the file contents into the OpenJSCAD editor (modify the script const
   </tr>
 </table>
 
-Save this model in (binary) STL form and print it like the lid mentioned above. The following image shows the result with an already mounted cable:
+Save this model in (binary) STL form (or download the [prebuilt STL](https://github.com/rozek/lava-lamp-replacement/blob/main/Lava-Lamp-Base.stl) file from this repository) and print it like the lid mentioned above. The following image shows the result with an already mounted cable:
 
 <table>
   <tr>
@@ -208,7 +208,7 @@ You will find the ring definition in file [Lava-Lamp-Ring-Model.jscad](https://r
   </tr>
 </table>
 
-Save this model in (binary) STL form and print it as usual:
+Save this model in (binary) STL form (or download the [prebuilt STL](https://github.com/rozek/lava-lamp-replacement/blob/main/Lava-Lamp-Ring.stl) file from this repository) and print it as usual:
 
 <table>
   <tr>
