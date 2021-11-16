@@ -218,7 +218,7 @@ Save this model in (binary) STL form and print it as usual:
 
 ## Final Assembly ##
 
-Directly looking at the electronics is not always desirable. Therefore, a few sheets of (self-adhesive) foil looking like "frosted glass" has been used to cover the inside of the glass cylinder
+To see at electronics is not always desirable. Therefore, a few sheets of (self-adhesive) foil looking like "frosted glass" have been used to cover the inside of the glass cylinder:
 
 <table>
   <tr>
@@ -230,6 +230,8 @@ Directly looking at the electronics is not always desirable. Therefore, a few sh
 This foil also has the advantage to reduce the brightness of the LEDs (Neopixel LEDs are really luminous and may blind human eyes when directly looking at them)
 
 ### Preparing the Espruino ###
+
+In order to avoid accidental short cuts between the Espruino board and soldering points on the LED matrix, the board has been inserted into a small plastic bag - with an opening on one side where the power cable may be plugged in and the LED cable be brought out:
 
 <table>
   <tr>
