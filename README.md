@@ -114,6 +114,7 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-Base.jpg"><br><b>dto., with separate Base</b></td>
   </tr>
 </table>
 
@@ -151,20 +152,10 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
 
 ## Assembly Instructions ##
 
-### Wind Glass ###
-
 <table>
   <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass</b></td>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-Base.jpg"><br><b>dto., with separate Base</b></td>
-  </tr>
-</table>
-
-### Frosted Glass Foil ###
-
-<table>
-  <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-frosted-Glass-Foil.jpg"><br><b>Wind Glass with frosted Glass Foil</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass itself</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-frosted-Glass-Foil.jpg"><br><b>Wdto., with frosted Glass Foil</b></td>
   </tr>
 </table>
 
@@ -207,8 +198,8 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
 
 <table>
   <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-bottom-View.jpg"><br><b>Lava Lamp in action</b></td>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-top-View.jpg"><br><b>dto., from different angle</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-bottom-View.jpg"><br><b>Lava Lamp Lid, bottom View</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-top-View.jpg"><br><b>dto., top View</b></td>
   </tr>
 </table>
 
