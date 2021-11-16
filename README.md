@@ -4,7 +4,7 @@ replacement for a real "lava lamp" using a WS2812 "Neopixel" LED matrix
 
 For my wife, I just finished a little project to replace a real lava lamp with s.th. less dangerous and dirty (just imagine the mess if a real lava lamp falls to the ground and breaks...).
 
-After some experiments, I decided to use an [Espruino](https://www.espruino.com/) microcontroler to drive a 16x16 matrix of WS2812 LEDs.
+After some experiments, I decided to use an [Espruino](https://www.espruino.com/) microcontroller to drive a 16x16 matrix of WS2812 LEDs.
 
 > This documentation is currently in progress - do not expect it to be completed before end of november.
 
@@ -38,9 +38,9 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 * wire stripper
 * side cutter
 
-## Microcontroler and LED Matrix ##
+## Microcontroller and LED Matrix ##
 
-The software for this project runs on an [Espruino](https://www.espruino.com/), a small microcontroler which may be programmed in JavaScript. By now, there is a whole [family of Espruino boards](https://www.espruino.com/Other+Boards) from which the [Original Espruino](https://www.espruino.com/Original) has been chosen (because it was in the author's trove and has a Micro-USB socket) - but you may also use a different board as well (such as the [Espruino Pico](https://www.espruino.com/Pico), which has a smaller size but is actually more performant than the "Original") if you modify the scripts (and the wiring) accordingly.
+The software for this project runs on an [Espruino](https://www.espruino.com/), a small microcontroller which may be programmed in JavaScript. By now, there is a whole [family of Espruino boards](https://www.espruino.com/Other+Boards) from which the [Original Espruino](https://www.espruino.com/Original) has been chosen (because it was in the author's trove and has a Micro-USB socket) - but you may also use a different board as well (such as the [Espruino Pico](https://www.espruino.com/Pico), which has a smaller size but is actually more performant than the "Original") if you modify the scripts (and the wiring) accordingly.
 
 ### Getting Started with the Espruino ###
 
