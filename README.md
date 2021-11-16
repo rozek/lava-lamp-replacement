@@ -149,6 +149,8 @@ For that reason, all 3D models have been built using [OpenJSCAD](https://openjsc
 
 ### Lamp Lid ###
 
+The lid froms the top cover of our lava lamp, its definition can be found in file [Lava-Lamp-Lid-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Lid-Model.jscad)
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-Model.png"><br><b>Lava Lamp Lid Model</b></td>
@@ -163,6 +165,8 @@ For that reason, all 3D models have been built using [OpenJSCAD](https://openjsc
 </table>
 
 ### Lamp Base ###
+
+in file [Lava-Lamp-Base-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Base-Model.jscad)
 
 <table>
   <tr>
@@ -184,6 +188,8 @@ For that reason, all 3D models have been built using [OpenJSCAD](https://openjsc
     <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>Ring to keep LED Matrix properly bended</b></td>
   </tr>
 </table>
+
+in file [Lava-Lamp-Ring-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Ring-Model.jscad)
 
 <table>
   <tr>
