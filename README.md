@@ -130,16 +130,16 @@ In this case, an old 5V/1A power adapter from the author's trove was chosen. The
 
 ## 3D Printed Parts ##
 
-The mechanical part of this lava lamp is built around a cheap "Wind Glass". The one chosen here comes with a separate wooden base which is not needed and becomes part of the author's trove for further projects.
+The mechanical part of this lava lamp is built around a cheap "wind glass". The one chosen here comes with a separate wooden base which is not needed and becomes part of the author's trove for further projects.
 
 <table>
   <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Wind Glass</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-Base.jpg"><br><b>dto., with separate Base</b></td>
   </tr>
 </table>
 
-The glass itself has the following dimensions:
+The glass cylinder itself has the following dimensions:
 
 * height: approx. 200mm
 * outer diameter: 100mm
