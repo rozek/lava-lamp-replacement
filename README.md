@@ -168,7 +168,9 @@ Save this model in (binary) STL form and load it into a 3D printer program of yo
 
 ### Lamp Base ###
 
-in file [Lava-Lamp-Base-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Base-Model.jscad)
+A similar model is used for the base of this lava lamp, it can be found in file [Lava-Lamp-Base-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Base-Model.jscad). In contrast to the lid described before, the base contains a small channel for the power cable and a hole which is large enough to push a Micro-USB plug through - that hole may (and should) later be filled with hot glue (or normal glue) in order to act as a kind of strain relief.
+
+Again, copy the file contents into the OpenJSCAD editor (modify the script constants as needed) and press Shift-Enter (the "Shift" key is important). OpenJSCAD will then create the following 3D model:
 
 <table>
   <tr>
@@ -176,6 +178,8 @@ in file [Lava-Lamp-Base-Model.jscad](https://raw.githubusercontent.com/rozek/lav
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-Model-bottom-View.png"><br><b>dto. (bottom View)</b></td>
   </tr>
 </table>
+
+Save this model in (binary) STL form and print it like the lid mentioned above. The following image shows the result with an already mounted cable:
 
 <table>
   <tr>
