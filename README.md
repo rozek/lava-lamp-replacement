@@ -123,9 +123,17 @@ In this case, an old 5V/1A power adapter from the author's trove was chosen. The
   </tr>
 </table>
 
-> Important: if you plan to do the same, make sure that you connect the red wire from the USB cable with 5V and the black one with GND - and not vice-versa, or you will almost certainly destroy your electronics.
+> Important: if you plan to do the same, make sure that you connect the red wire from the USB cable with 5V and the black one with GND - and not vice-versa, or you will almost certainly destroy your electronics. The remaining wires should be properly insulated from each other.
 
 ## 3D Printed Parts ##
+
+The mechanical part of this lava lamp is built around a cheap "Wind Glass". The one chosen here comes with a separate wooden base which is not needed and becomes part of the author's trove for further projects.
+
+The glass itself has the following dimensions:
+
+* height: approx. 200mm
+* outer diameter: 100mm
+* wall thickness: 2.6mm
 
 <table>
   <tr>
