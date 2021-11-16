@@ -121,6 +121,12 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 
 ### Rings for the LED Matrix ###
 
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-Model.png"><br><b>Lava Lamp Ring Model</b></td>
+  </tr>
+</table>
+
 
 ### Lamp Lid ###
 
