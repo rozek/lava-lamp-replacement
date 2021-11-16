@@ -1,6 +1,6 @@
 # lava-lamp-replacement #
 
-replacement for a real "lava lamp" using a WS2812 LED matrix
+replacement for a real "lava lamp" using a WS2812 "Neopixel" LED matrix
 
 For my wife, I just finished a little project to replace a real lava lamp with s.th. less dangerous and dirty (just imagine the mess if a real lava lamp falls to the ground and breaks...).
 
@@ -175,13 +175,24 @@ The following image illustrates the wiring (while the shown LED matrix only cont
 
 Simply connect
 
-*  one of Espruino pins labelled `Bat` to `5V` on the LED Matrix (red wire),
-*  one of Espruino pins labelled `GND` to `GND` on the LED Matrix (white wire) and
-*  Espruino pin `B15` to `DIN` on the LED Matrix (green wire)
+*  one of Espruino pins labelled `Bat` to `5V` on the LED matrix (red wire),
+*  one of Espruino pins labelled `GND` to `GND` on the LED matrix (white wire) and
+*  Espruino pin `B15` to `DIN` on the LED matrix (green wire)
 
 If you now connect the Espruino Micro-USB socket with a computer or a 5V power supply, it will power both the Espruino itself and the LED Matrix.
 
 ### Functional Test of the LED Matrix ###
+
+In order to test the (wiring and) LED matrix, you may copy the contents of file [LED-Function-Test.js](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/LED-Function-Test.js) into the editor area of the Espruino Web IDE and click on "Send to Espruino".
+
+If everything works as intended, the LED matrix should show an image similar to the one shown below (taken from another project):
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="HSB-Test-nonlinear-dimmed.jpg"><br><b>LED Matrix Function Test</b></td>
+  </tr>
+</table>
+
 
 ### The actual Program ###
 
