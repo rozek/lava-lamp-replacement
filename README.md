@@ -195,6 +195,7 @@ LED matrix sheets are somewhat stiff but may be carefully bended without damagin
 
 <table>
   <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-front-View.jpg"><br><b>LED-Matrix, mounted in Ring</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>two Rings keep the LED Matrix properly bended</b></td>
   </tr>
 </table>
@@ -242,9 +243,10 @@ In order to avoid accidental short cuts between the Espruino board and soldering
 
 ### Assembling LED Matrix and Rings ###
 
+If you fix the LED sheet to the rings as shown below, Espruino board and cabling fit nicely into the interior:
+
 <table>
   <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-front-View.jpg"><br><b>LED-Matrix, mounted in Ring</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>dto., rear View with Espruino</b></td>
   </tr>
 </table>
