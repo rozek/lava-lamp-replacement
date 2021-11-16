@@ -28,6 +28,7 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 * a few mm of double-sided adhesive tape
 * < 100g of filament to print 4 differents parts (see below)
 * soldering tin
+* heat shrink tubes
 * a small plastic bag (see foto below)
 
 ### Tools needed ###
