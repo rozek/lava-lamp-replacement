@@ -149,6 +149,8 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 
 ## Software ##
 
+The software for this project runs on an "Espruino", a small microcontroler which may be programmed in JavaScript. By now, there is a whole [family of Espruino boards](https://www.espruino.com/Other+Boards) from which the [Original Espruino](https://www.espruino.com/Original) has been chosen (because it was in the author's trove and has a Micro USB socket) - but you may also choose other boards as well (such as the [Espruino Pico](https://www.espruino.com/Pico), which is smaller but more performant than the "Original") if you modify the scripts (and the cabling) accordingly.
+
 ### Getting Started with the Espruino ###
 
 ### Functional Test of the LED Matrix ###
