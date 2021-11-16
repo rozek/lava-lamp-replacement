@@ -111,6 +111,14 @@ And since the code has been saved in flash memory, the animation should start au
 
 Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems a bit slow albeit still acceptable. Due to some bugs in the Espruino compiler, most parts of the program run without compilation - but as soon as those bugs have been fixed, the refresh rate should increase to approx. 4Hz and provide a really nice animation.
 
+### Power Supply ###
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Power-Supply.jpg"><br><b>Power Supply with modified Plug</b></td>
+  </tr>
+</table>
+
 ## 3D Printed Parts ##
 
 <table>
@@ -195,14 +203,6 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-front-View.jpg"><br><b>LED-Matrix, mounted in Ring</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>dto., rear View with Espruino</b></td>
-  </tr>
-</table>
-
-### Power Supply ###
-
-<table>
-  <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Power-Supply.jpg"><br><b>Power Supply with modified Plug</b></td>
   </tr>
 </table>
 
