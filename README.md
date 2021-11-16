@@ -133,6 +133,13 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 
 ### Lamp Base ###
 
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-Model-top-View.png"><br><b>Lava Lamp Base Model (top View)</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-Model-bottom-View.png"><br><b>dto. (bottom View)</b></td>
+  </tr>
+</table>
+
 
 ## Software ##
 
