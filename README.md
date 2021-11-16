@@ -70,6 +70,8 @@ Simply connect
 *  one of the Espruino pins labelled `GND` to `GND` on the LED matrix (white wire) and
 *  Espruino pin `B15` to `DIN` on the LED matrix (green wire)
 
+Normally, Neopixel LED matrices come with a spare cable that ends in a plug on on side and has stripped wires on the other. Just solder the wires to the proper holes on the Espruino board and you will be able to connect and disconnect the LED matrix later as needed.
+
 If you now connect the Espruino Micro-USB socket with a computer or a 5V power supply, it will power both the Espruino itself and the LED Matrix.
 
 ### Functional Test of the LED Matrix ###
