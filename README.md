@@ -29,6 +29,7 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 * < 100g of filament to print 4 differents parts (see below)
 * soldering tin
 * heat shrink tubes
+* normal glue (or hot glue)
 * a small plastic bag (see foto below)
 
 ### Tools needed ###
@@ -36,6 +37,7 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 * Desktop computer (Windows, Linux or Mac OS) or Chromebook with a modern browser (e.g., Chrome) which supports the "Web Serial API"
 * 3D printer
 * soldering iron
+* hot glue gun (only, if hot glue is used)
 * wire stripper
 * side cutter
 
@@ -168,7 +170,7 @@ Save this model in (binary) STL form and load it into a 3D printer program of yo
 
 ### Lamp Base ###
 
-A similar model is used for the base of this lava lamp, it can be found in file [Lava-Lamp-Base-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Base-Model.jscad). In contrast to the lid described before, the base contains a small channel for the power cable and a hole which is large enough to push a Micro-USB plug through - that hole may (and should) later be filled with hot glue (or normal glue) in order to act as a kind of strain relief.
+A similar model is used for the base of this lava lamp, it can be found in file [Lava-Lamp-Base-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Base-Model.jscad). In contrast to the lid described before, the base contains a small channel for the power cable and a hole which is just large enough to push a Micro-USB plug through - that hole may (and should) later be filled with hot glue (or normal glue) in order to act as a kind of strain relief.
 
 Again, copy the file contents into the OpenJSCAD editor (modify the script constants as needed) and press Shift-Enter (the "Shift" key is important). OpenJSCAD will then create the following 3D model:
 
