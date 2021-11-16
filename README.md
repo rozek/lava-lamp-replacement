@@ -175,9 +175,9 @@ The following image illustrates the wiring (while the shown LED matrix only cont
 
 Simply connect
 
-*  one of Espruino Pins labelled `Bat` to `5V` on the LED Matrix (red wire),
-*  one of Espruino Pins labelled `GND` to `GND` on the LED Matrix (white wire) and
-*  Espruino Pin `B15` to `DIN` on the LED Matrix (green wire)
+*  one of Espruino pins labelled `Bat` to `5V` on the LED Matrix (red wire),
+*  one of Espruino pins labelled `GND` to `GND` on the LED Matrix (white wire) and
+*  Espruino pin `B15` to `DIN` on the LED Matrix (green wire)
 
 If you now connect the Espruino Micro-USB socket with a computer or a 5V power supply, it will power both the Espruino itself and the LED Matrix.
 
