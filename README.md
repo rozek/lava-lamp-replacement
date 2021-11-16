@@ -175,8 +175,8 @@ The following image illustrates the wiring (while the shown LED matrix only cont
 
 Simply connect
 
-*  one of Espruino pins labelled `Bat` to `5V` on the LED matrix (red wire),
-*  one of Espruino pins labelled `GND` to `GND` on the LED matrix (white wire) and
+*  one of the Espruino pins labelled `Bat` to `5V` on the LED matrix (red wire),
+*  one of the Espruino pins labelled `GND` to `GND` on the LED matrix (white wire) and
 *  Espruino pin `B15` to `DIN` on the LED matrix (green wire)
 
 If you now connect the Espruino Micro-USB socket with a computer or a 5V power supply, it will power both the Espruino itself and the LED Matrix.
@@ -203,7 +203,7 @@ In order to install that program
 * choose `Flash` as the upload target of the IDE and
 * click "Send to Espruino"
 
-If everything works as intended, the animation should start after an initial delay of 1 second (which has been chosen in order to give Espruino enough time for its internal house keeping after the upload)
+If everything works as intended, the animation should start after an initial delay of 1 second (which has been chosen in order to give the Espruino enough time for its internal house keeping after such an upload)
 
 And since the code has been saved in flash memory, the animation should start automatically whenever the board is powered-on.
 
