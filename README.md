@@ -191,6 +191,8 @@ Save this model in (binary) STL form and print it like the lid mentioned above. 
 
 ### Rings for the LED Matrix ###
 
+LED matrices are somwhat stiff but may be carefully bended without damaging them. In order to achieve a uniform curvature, two "rings" will be printed with slots into which the matrices may be inserted. Two or three rubber bands will then keep the LEDs in shape while still allowing to disassemble everything.
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>Ring to keep LED Matrix properly bended</b></td>
