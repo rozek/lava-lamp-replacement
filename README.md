@@ -149,7 +149,7 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 
 ## Software ##
 
-The software for this project runs on an [Espruino](https://www.espruino.com/), a small microcontroler which may be programmed in JavaScript. By now, there is a whole [family of Espruino boards](https://www.espruino.com/Other+Boards) from which the [Original Espruino](https://www.espruino.com/Original) has been chosen (because it was in the author's trove and has a Micro-USB socket) - but you may also use a different board as well (such as the [Espruino Pico](https://www.espruino.com/Pico), which has a smaller size but is actually more performant than the "Original") if you modify the scripts (and the cabling) accordingly.
+The software for this project runs on an [Espruino](https://www.espruino.com/), a small microcontroler which may be programmed in JavaScript. By now, there is a whole [family of Espruino boards](https://www.espruino.com/Other+Boards) from which the [Original Espruino](https://www.espruino.com/Original) has been chosen (because it was in the author's trove and has a Micro-USB socket) - but you may also use a different board as well (such as the [Espruino Pico](https://www.espruino.com/Pico), which has a smaller size but is actually more performant than the "Original") if you modify the scripts (and the wiring) accordingly.
 
 ### Getting Started with the Espruino ###
 
@@ -162,6 +162,8 @@ That tutorial will tell you
 * how to update the firmware (if that should be necessary)
 
 For the following instructions it is assumed that you have the Web IDE running and that your board is connected to your computer.
+
+### Wiring ###
 
 ### Functional Test of the LED Matrix ###
 
