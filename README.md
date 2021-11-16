@@ -197,9 +197,9 @@ If everything works as intended, the LED matrix should display an image similar 
 
 The actual program implements a "cellular automaton" which simulates a process similar to "thermal diffusion" - that is by no means physically correct, but looks good (which is all what counts in this context)
 
-In order to install the program
+In order to install the program,
 
-* copy the contents of file [LavaLamp.js](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/LavaLamp.js) into the editor area of the Espruino Web IDE
+* copy the contents of file [LavaLamp.js](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/LavaLamp.js) into the editor area of the Espruino Web IDE,
 * choose `Flash` as the upload target of the IDE and
 * click "Send to Espruino"
 
