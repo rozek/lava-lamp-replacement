@@ -197,12 +197,12 @@ For that reason, all 3D models have been built using [OpenJSCAD](https://openjsc
   </tr>
 </table>
 
-## Assembly Instructions ##
+## Assembly ##
 
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass itself</b></td>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-frosted-Glass-Foil.jpg"><br><b>Wdto., with frosted Glass Foil</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-frosted-Glass-Foil.jpg"><br><b>dto., with frosted Glass Foil</b></td>
   </tr>
 </table>
 
@@ -224,7 +224,7 @@ For that reason, all 3D models have been built using [OpenJSCAD](https://openjsc
   </tr>
 </table>
 
-### Assembling the Lamp ###
+### Final Result ###
 
 <table>
   <tr>
