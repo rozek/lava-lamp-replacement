@@ -263,6 +263,10 @@ You are now ready to put the glass cylinder over the base and push the lid on to
   </tr>
 </table>
 
+All that remains now is to power on the lamp and enjoy the animation.
+
+Have fun!
+
 ## License ##
 
 [MIT License](LICENSE.md)
