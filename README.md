@@ -113,6 +113,10 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
 
 ### Power Supply ###
 
+During programming and testing, Espruino and LED matrix are powered by the connected computer - but for the intended operaton, a separate power supply is needed.
+
+In this case, an old 5V/1A power adapter from the author's trove was chosen. The original power plug was then replaced by an USB-A socket taken from an old USB-A extension cable (that cable was cut in the middle and the half with the socket soldered to the wires from the power adapter)
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Power-Supply.jpg"><br><b>Power Supply with modified Plug</b></td>
