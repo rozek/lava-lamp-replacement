@@ -197,7 +197,7 @@ For that reason, all 3D models have been built using [OpenJSCAD](https://openjsc
   </tr>
 </table>
 
-## Assembly ##
+## Final Assembly ##
 
 <table>
   <tr>
