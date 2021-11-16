@@ -183,9 +183,9 @@ If you now connect the Espruino Micro-USB socket with a computer or a 5V power s
 
 ### Functional Test of the LED Matrix ###
 
-In order to test the (wiring and) LED matrix, you may copy the contents of file [LED-Function-Test.js](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/LED-Function-Test.js) into the editor area of the Espruino Web IDE and click on "Send to Espruino".
+In order to test the (wiring and) LED matrix, you may copy the contents of file [LED-Function-Test.js](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/LED-Function-Test.js) into the editor area of the Espruino Web IDE and click "Send to Espruino".
 
-If everything works as intended, the LED matrix should show an image similar to the one shown below (taken from another project):
+If everything works as intended, the LED matrix should display an image similar to the one shown below (taken from another project):
 
 <table>
   <tr>
@@ -193,10 +193,26 @@ If everything works as intended, the LED matrix should show an image similar to 
   </tr>
 </table>
 
-
 ### The actual Program ###
 
+The actual program implements a "cellular automaton" which simulates a process similar to "thermal diffusion" - that is by no means physically correct, but looks good (which is all what counts in this context)
 
+In order to install that program
+
+* copy the contents of file [LavaLamp.js](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/LavaLamp.js) into the editor area of the Espruino Web IDE
+* choose `Flash` as the upload target of the IDE and
+* click "Send to Espruino"
+
+If everything works as intended, the animation should start after an initial delay of 1 second (which has been chosen in order to give the Espruino enough time for its internal house keeping)
+
+And since the code has been saved in flash memory, the animation should start whenever the board is powered-on.
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-in-Action_01.jpg"><br><b>Lavalamp in action</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-in-Action_02.jpg"><br><b>dto., from different angle</b></td>
+  </tr>
+</table>
 
 #### Current Performance ####
 
