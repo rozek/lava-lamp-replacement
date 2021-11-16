@@ -218,12 +218,16 @@ Save this model in (binary) STL form and print it as usual:
 
 ## Final Assembly ##
 
+Directly looking at the electronics is not always desirable. Therefore, a few sheets of (self-adhesive) foil looking like "frosted glass" has been used to cover the inside of the glass cylinder
+
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass itself</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-frosted-Glass-Foil.jpg"><br><b>dto., with frosted Glass Foil</b></td>
   </tr>
 </table>
+
+This foil also has the advantage to reduce the brightness of the LEDs (Neopixel LEDs are really luminous and may blind human eyes when directly looking at them)
 
 ### Preparing the Espruino ###
 
