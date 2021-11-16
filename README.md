@@ -6,7 +6,7 @@ For my wife, I just finished a little project to replace a real lava lamp with s
 
 After some experiments, I decided to use an [Espruino](https://www.espruino.com/) microcontroller to drive a 16x16 matrix of WS2812 LEDs.
 
-> This documentation is currently in progress - do not expect it to be completed before end of november.
+> Just a small note: if you like this work and plan to use it, consider "starring" this repository (you will find the "Star" button on the top right of this page), so that I know which of my repositories to take most care of.
 
 <table>
   <tr>
