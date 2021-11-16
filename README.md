@@ -96,7 +96,7 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 
 <table>
   <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-bottom-View.jpg"><br><b>Lavalamp in action</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-bottom-View.jpg"><br><b>Lava Lamp in action</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-top-View.jpg"><br><b>dto., from different angle</b></td>
   </tr>
 </table>
@@ -123,6 +123,12 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 
 
 ### Lamp Lid ###
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-Model.png"><br><b>Lava Lamp Lid Model</b></td>
+  </tr>
+</table>
 
 
 ### Lamp Base ###
