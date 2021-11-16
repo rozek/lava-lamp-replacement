@@ -149,13 +149,15 @@ For that reason, all 3D models have been built using [OpenJSCAD](https://openjsc
 
 ### Lamp Lid ###
 
-The lid froms the top cover of our lava lamp, its definition can be found in file [Lava-Lamp-Lid-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Lid-Model.jscad)
+The lid forms the top cover of our lava lamp, its definition can be found in file [Lava-Lamp-Lid-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Lid-Model.jscad). Simply copy the file contents into the OpenJSCAD editor (modify the script constants as needed) and press Shift-Enter (the "Shift" key is important). OpenJSCAD will then create the following 3D model: 
 
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-Model.png"><br><b>Lava Lamp Lid Model</b></td>
   </tr>
 </table>
+
+Save this model in (binary) STL form and load it into a 3D printer program of your choice (the author prints with a Flashforge Finder and therefore uses [FlashPrint](https://www.flashforge.com/download-center)) where you "slice" it and finally send the result to a 3D printer.
 
 <table>
   <tr>
