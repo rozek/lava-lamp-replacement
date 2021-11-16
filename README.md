@@ -191,21 +191,23 @@ Save this model in (binary) STL form and print it like the lid mentioned above. 
 
 ### Rings for the LED Matrix ###
 
-LED matrices are somwhat stiff but may be carefully bended without damaging them. In order to achieve a uniform curvature, two "rings" will be printed with slots into which the matrices may be inserted. Two or three rubber bands will then keep the LEDs in shape while still allowing to disassemble everything.
+LED matrix sheets are somewhat stiff but may be carefully bended without damaging them. In order to achieve a uniform curvature, two "rings" will be printed with slots into which the sheets may be inserted. Two or three rubber bands will then keep the LEDs in shape while still allowing to disassemble everything.
 
 <table>
   <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>Ring to keep LED Matrix properly bended</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>two Rings keep the LED Matrix properly bended</b></td>
   </tr>
 </table>
 
-in file [Lava-Lamp-Ring-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Ring-Model.jscad)
+You will find the ring definition in file [Lava-Lamp-Ring-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Ring-Model.jscad). Copy its contents into the OpenJSCAD editor (modify the script constants as needed) and press Shift-Enter (the "Shift" key is important). OpenJSCAD will then create the following 3D model:
 
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-Model.png"><br><b>Lava Lamp Ring Model</b></td>
   </tr>
 </table>
+
+Save this model in (binary) STL form and print it as usual:
 
 <table>
   <tr>
