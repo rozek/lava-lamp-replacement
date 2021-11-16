@@ -165,6 +165,16 @@ For the following instructions it is assumed that you have the Web IDE running a
 
 ### Wiring ###
 
+The following image illustrates the wiring (while the shown LED matrix only contains 8x8 LEDs, the principal wiring remains the same for larger matrices as well)
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Original-Espruino-with-Neopixel-Matrix.png"><br><b>principal Wiring</b></td>
+  </tr>
+</table>
+
+
+
 ### Functional Test of the LED Matrix ###
 
 ### The actual Program ###
