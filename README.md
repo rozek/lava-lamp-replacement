@@ -55,7 +55,7 @@ That tutorial will tell you
 * how to use the [Espruino Web IDE](https://www.espruino.com/ide/#) and
 * how to update the firmware (if that should be necessary)
 
-For the following instructions it is assumed that you have the Web IDE running and that your board is connected to your computer.
+For the following instructions it is assumed that you have the Web IDE running and your board is connected to your computer.
 
 ### Wiring ###
 
