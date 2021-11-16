@@ -128,6 +128,12 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-bottom-View.jpg"><br><b>Lava Lamp Lid, bottom View</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-top-View.jpg"><br><b>dto., top View</b></td>
+  </tr>
+</table>
 
 ### Lamp Base ###
 
@@ -135,6 +141,12 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-Model-top-View.png"><br><b>Lava Lamp Base Model (top View)</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-Model-bottom-View.png"><br><b>dto. (bottom View)</b></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-with-Cable.jpg"><br><b>Base with Cable</b></td>
   </tr>
 </table>
 
@@ -149,6 +161,13 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-Model.png"><br><b>Lava Lamp Ring Model</b></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-on-Printbed.jpg"><br><b>Ring on Printbed</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring.jpg"><br><b>dto., separate</b></td>
   </tr>
 </table>
 
@@ -170,38 +189,12 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
   </tr>
 </table>
 
-### Rings for the RGB LED Matrix ###
-
-<table>
-  <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-on-Printbed.jpg"><br><b>Ring on Printbed</b></td>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring.jpg"><br><b>dto., separate</b></td>
-  </tr>
-</table>
-
 ### Assembling LED Matrix and Rings ###
 
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-front-View.jpg"><br><b>LED-Matrix, mounted in Ring</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>dto., rear View with Espruino</b></td>
-  </tr>
-</table>
-
-### Lamp Base ###
-
-<table>
-  <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-with-Cable.jpg"><br><b>Base with Cable</b></td>
-  </tr>
-</table>
-
-### Lamp Lid ###
-
-<table>
-  <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-bottom-View.jpg"><br><b>Lava Lamp Lid, bottom View</b></td>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-top-View.jpg"><br><b>dto., top View</b></td>
   </tr>
 </table>
 
