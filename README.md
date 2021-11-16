@@ -183,7 +183,7 @@ If you now connect the Espruino Micro-USB socket with a computer or a 5V power s
 
 ### Functional Test of the LED Matrix ###
 
-In order to test the (wiring and) LED matrix, you may copy the contents of file [LED-Function-Test.js](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/LED-Function-Test.js) into the editor area of the Espruino Web IDE and click "Send to Espruino".
+In order to test the (wiring and the) LED matrix, you may copy the contents of file [LED-Function-Test.js](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/LED-Function-Test.js) into the editor area of the Espruino Web IDE and click "Send to Espruino".
 
 If everything works as intended, the LED matrix should display an image similar to the one shown below (taken from another project):
 
