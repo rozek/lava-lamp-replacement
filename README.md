@@ -251,7 +251,11 @@ If you fix the LED sheet to the rings as shown below, Espruino board and cabling
   </tr>
 </table>
 
+With some stripes of double-sided adhesive tape, the lower ring may now be fixed to the base - but make sure, that you fixed the power cable before!
+
 ### Final Result ###
+
+You are now ready to put the glass cylinder over the base and push the lid on top:
 
 <table>
   <tr>
