@@ -129,18 +129,22 @@ In this case, an old 5V/1A power adapter from the author's trove was chosen. The
 
 The mechanical part of this lava lamp is built around a cheap "Wind Glass". The one chosen here comes with a separate wooden base which is not needed and becomes part of the author's trove for further projects.
 
-The glass itself has the following dimensions:
-
-* height: approx. 200mm
-* outer diameter: 100mm
-* wall thickness: 2.6mm
-
 <table>
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass-with-Base.jpg"><br><b>dto., with separate Base</b></td>
   </tr>
 </table>
+
+The glass itself has the following dimensions:
+
+* height: approx. 200mm
+* outer diameter: 100mm
+* wall thickness: 2.6mm
+
+The 3D-printable parts have been designed based on these values but may be easily modified to fit glass cylinders of different dimensions.
+
+For that reason, all 3D models have been built using [OpenJSCAD](https://openjscad.xyz/), a Web-based object modeller based on JavaScript definitions.
 
 ### Lamp Lid ###
 
