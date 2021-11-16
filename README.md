@@ -149,9 +149,19 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 
 ## Software ##
 
-The software for this project runs on an "Espruino", a small microcontroler which may be programmed in JavaScript. By now, there is a whole [family of Espruino boards](https://www.espruino.com/Other+Boards) from which the [Original Espruino](https://www.espruino.com/Original) has been chosen (because it was in the author's trove and has a Micro USB socket) - but you may also choose other boards as well (such as the [Espruino Pico](https://www.espruino.com/Pico), which is smaller but more performant than the "Original") if you modify the scripts (and the cabling) accordingly.
+The software for this project runs on an "Espruino", a small microcontroler which may be programmed in JavaScript. By now, there is a whole [family of Espruino boards](https://www.espruino.com/Other+Boards) from which the [Original Espruino](https://www.espruino.com/Original) has been chosen (because it was in the author's trove and has a Micro-USB socket) - but you may also use a different board as well (such as the [Espruino Pico](https://www.espruino.com/Pico), which is smaller but more performant than the "Original") if you modify the scripts (and the cabling) accordingly.
 
 ### Getting Started with the Espruino ###
+
+As soon as you got the Espruino board of your choice, you should work through the "Getting started" tutorial for this board (just use [the board overview](https://www.espruino.com/Other+Boards) as a starting point, click on your board and you will be directed to the related instructions)
+
+The tutorial will tell you
+
+* which drivers you may have to install in order to communicate with your board (if any)
+* how to use the [Espruino Web IDE](https://www.espruino.com/ide/#) and
+* how to update the firmware (if that should be necessary)
+
+For the following instructions it is assumed that you have the Web IDE running and that your board is connected to your computer.
 
 ### Functional Test of the LED Matrix ###
 
