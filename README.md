@@ -111,14 +111,11 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
 
 ## 3D Printed Parts ##
 
-### Rings for the LED Matrix ###
-
 <table>
   <tr>
-    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-Model.png"><br><b>Lava Lamp Ring Model</b></td>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Wind-Glass.jpg"><br><b>Windglass</b></td>
   </tr>
 </table>
-
 
 ### Lamp Lid ###
 
@@ -135,6 +132,20 @@ Right now, the simulation runs with a refresh rate of approx. 1.5Hz, which seems
   <tr>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-Model-top-View.png"><br><b>Lava Lamp Base Model (top View)</b></td>
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Base-Model-bottom-View.png"><br><b>dto. (bottom View)</b></td>
+  </tr>
+</table>
+
+### Rings for the LED Matrix ###
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-LED-Matrix-in-Ring-rear-View.jpg"><br><b>Ring to keep LED Matrix properly bended</b></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align:center"><img width=290 src="Lava-Lamp-Ring-Model.png"><br><b>Lava Lamp Ring Model</b></td>
   </tr>
 </table>
 
