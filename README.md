@@ -27,6 +27,7 @@ After some experiments, I decided to use an [Espruino](https://www.espruino.com/
 * 3x rubber bands, 80mm diameter
 * a few mm of double-sided adhesive tape
 * < 100g of filament to print 4 differents parts (see below)
+* soldering tin
 * a small plastic bag (see foto below)
 
 ### Tools needed ###
