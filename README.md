@@ -168,6 +168,8 @@ Save this model in (binary) STL form (or download the [prebuilt STL file](https:
   </tr>
 </table>
 
+> Nota bene: if your slicer supports "ironing", consider using that feature in order to get a perfectly flat surface (for the print shown in the images, "ironing" was _not_ enabled)
+
 ### Lamp Base ###
 
 A similar model is used for the base of this lava lamp, it can be found in file [Lava-Lamp-Base-Model.jscad](https://raw.githubusercontent.com/rozek/lava-lamp-replacement/main/Lava-Lamp-Base-Model.jscad). In contrast to the lid described before, the base contains a small channel for the power cable and a hole which is just large enough to push a Micro-USB plug through - that hole may (and should) later be filled with hot glue (or normal glue) in order to act as a kind of strain relief.
