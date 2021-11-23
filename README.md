@@ -37,7 +37,7 @@ After some experiments, the decision was made to use an [Espruino](https://www.e
 * Desktop computer (Windows, Linux or Mac OS) or Chromebook with a modern browser (e.g., Chrome) which supports the "Web Serial API"
 * 3D printer
 * soldering iron
-* hot glue gun (only, if hot glue is used)
+* hot glue gun (only if hot glue is used)
 * wire stripper
 * side cutter
 
