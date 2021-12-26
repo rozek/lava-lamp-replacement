@@ -37,7 +37,7 @@ After some experiments, the decision was made to use an [Espruino](https://www.e
 * Desktop computer (Windows, Linux or Mac OS) or Chromebook with a modern browser (e.g., Chrome) which supports the "Web Serial API"
 * 3D printer
 * soldering iron
-* hot glue gun (only, if hot glue is used)
+* hot glue gun (only if hot glue is used)
 * wire stripper
 * side cutter
 
@@ -167,6 +167,8 @@ Save this model in (binary) STL form (or download the [prebuilt STL file](https:
     <td style="text-align:center"><img width=290 src="Lava-Lamp-Lid-top-View.jpg"><br><b>dto., top View</b></td>
   </tr>
 </table>
+
+> Nota bene: if your slicer supports "ironing", consider using that feature in order to get a perfectly flat surface (for the print shown in the images, "ironing" was _not_ enabled)
 
 ### Lamp Base ###
 
