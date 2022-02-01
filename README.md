@@ -193,7 +193,7 @@ Save this model in (binary) STL form (or download the [prebuilt STL file](https:
 
 ### Rings for the LED Matrix ###
 
-LED matrix sheets are somewhat stiff but may be carefully bended without damaging them. In order to achieve a uniform curvature, two "rings" will be printed with slots into which the sheets may be inserted. Two or three rubber bands will then keep the LEDs in shape while still allowing to disassemble everything.
+LED matrix sheets are somewhat stiff but may be carefully bended without damaging them. In order to achieve a uniform curvature, two "rings" should be printed with slots into which the sheets may be inserted. Two or three rubber bands will then keep the LEDs in shape while still allowing to disassemble everything.
 
 <table>
   <tr>
